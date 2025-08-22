@@ -1,4 +1,4 @@
-package com.web.servlet;
+package com.web.servlet.urlrewriting;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
